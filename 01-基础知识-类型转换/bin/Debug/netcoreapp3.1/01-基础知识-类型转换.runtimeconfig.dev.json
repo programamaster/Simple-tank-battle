@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\86178\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\86178\\.nuget\\packages",
+      "D:\\visual studio\\共享组件、工具和SDK\\NuGetPackages"
+    ]
+  }
+}
